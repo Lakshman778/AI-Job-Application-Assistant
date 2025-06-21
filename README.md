@@ -28,8 +28,8 @@ This is a Python-based AI-powered web application that helps job seekers generat
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-job-assistant.git
-cd ai-job-assistant
+git clone {The repository link}
+cd {file path}
 ```
 
 ### 2. Create virtual environment (optional but recommended)
