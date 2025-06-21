@@ -52,12 +52,12 @@ OPENAI_API_KEY=#Use your API key that you generated
 #Use this link to generate one {it only takes api form this website:https://openrouter.ai/settings/keys}
 ```
 
-### 5. Add DejaVuSans font (for Unicode PDF export)
+### 5. Add DejaVuSans font 
 
 Download `DejaVuSans.ttf` from the official DejaVu repository and place it in:
 
 ```
-ai_job_assistant/fonts/DejaVuSans.ttf
+AI_Job_Application_Assistant/fonts/DejaVuSans.ttf
 ```
 
 ### 6. Run the app
