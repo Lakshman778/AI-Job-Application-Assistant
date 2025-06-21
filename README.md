@@ -100,12 +100,6 @@ streamlit run app.py
 
 ---
 
-## License
-
-This project is open-source under the MIT License.
-
----
-
 ## Credits
 
 Built using Streamlit, LangChain, and OpenRouter
