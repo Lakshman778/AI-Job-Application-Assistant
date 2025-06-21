@@ -10,7 +10,7 @@ This is a Python-based AI-powered web application that helps job seekers generat
 * Paste the job description
 * Choose a target tone (e.g., Professional, Friendly)
 * AI-generated personalized cover letter using LangChain + OpenRouter
-* Export the result as a downloadable PDF (Unicode-safe)
+* Export the result as a downloadable PDF
 
 ---
 
