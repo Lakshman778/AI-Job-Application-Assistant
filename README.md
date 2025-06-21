@@ -32,8 +32,7 @@ git clone {The repository link}
 cd {file path}
 ```
 
-### 2. Create virtual environment (optional but recommended)
-
+### 2. Create virtual environment 
 ```bash
 python -m venv venv
 # On Windows
