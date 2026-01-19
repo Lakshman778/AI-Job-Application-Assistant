@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ```
 OPENAI_API_KEY=#Use your API key that you generated
-#Use this link to generate one {it only takes api form this website:https://openrouter.ai/settings/keys}
+#Use this link to generate one {it only takes api form this website:https://openrouter.ai}
 ```
 
 ### 5. Add DejaVuSans font 
